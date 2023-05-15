@@ -1,0 +1,43 @@
+
+.categoria-title {
+    margin-bottom: 60px;
+    border-bottom: 1px solid #fff;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+}
+
+.nomeCategoria {
+    color: #fff;
+}
+
+.produtos-container {
+    max-width: 900px;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 50px;
+    padding: 0;
+    margin-left: 50px;
+}
+
+.filtro-prod {
+    color: #fff;
+    width: 500px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+.filtro-prod .filtro {
+    font-weight: 700;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.section-categoria {
+    display: flex;
+    flex-direction: row;
+}
+
+
+

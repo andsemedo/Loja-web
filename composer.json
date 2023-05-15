@@ -1,0 +1,8 @@
+{
+    "name": "esi/loja_projeto_web",
+    "autoload":{
+        "psr-4":{
+            "classes\\": "classes/"
+        }
+    }
+}

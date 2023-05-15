@@ -1,0 +1,3 @@
+SELECT pm.idPromo, pd.imagem, pd.nomeProduto, pm.desconto, pm.valorPromo, pm.dtInicio, pm.dtFim
+FROM promocao pm
+JOIN produto pd ON pm.idPromo = pd.codProduto;

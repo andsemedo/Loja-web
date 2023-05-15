@@ -1,0 +1,140 @@
+
+
+footer{
+    width: 100%;
+    padding: 30px;
+    min-height: 250px;
+    background: #282828;
+    display: flex;
+}
+
+
+footer .formaspag h2, h3{
+    color: white;
+}
+
+footer .pagamento img{
+        width: 40px;
+        height: 30px;
+        margin-right: 8px;
+}
+
+footer div.caixa{
+    
+    min-height: 150px;
+    padding: 20px; 
+}
+
+footer .loja{
+    margin-left: 100px;
+    width:230px;
+}
+
+footer .inf{
+    margin-left: 80px;
+    width:400px;
+    margin-right: 80px;
+}
+
+footer .soNos{
+    width:600px;
+}
+
+
+footer .caixa h2{
+    color:white;
+    margin-bottom: 20px;
+}
+
+footer .caixa ul li{
+    margin: 10px 0px;
+    list-style: none;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+}
+footer .caixa ul li:hover{
+    color:rgb(240, 100, 20); 
+    text-decoration:underline;   
+}
+
+footer .caixa ul li a{
+    color:white;
+    text-decoration:double;   
+}
+
+
+
+footer .caixa p{
+    color:#fff;
+    text-align: justify;
+    font-size: 15px;
+}
+
+div.footer{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 20px;
+    align-items: center;
+    background: #444;
+    font-size: 15px;
+}
+
+div.footer h4{
+    color:#fff;
+    font-size: 12px;
+}
+
+div.footer .sociais{
+    display: flex;
+   
+}
+
+div.footer .sociais .social{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    /* transform: background .3s linear;  */
+}
+
+div.footer .sociais .social a{
+    color:#fff;
+    font-size: 1.5em;
+    transform: color .3s linear;
+}
+
+
+div.footer .sociais .social:hover a{
+        color: rgb(240, 100, 20);
+}
+
+
+
+
+
+
+
+
+/*
+
+
+img{
+    width: 10%;
+    height: 10%;
+}
+
+
+
+
+
+
+
+ 
+*/

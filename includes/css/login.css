@@ -1,0 +1,53 @@
+.nav-tabs {
+    display: none;
+}
+
+main {
+    /* position: relative */
+}
+
+h4, label {
+    color: white;
+    font-weight: 700;
+}
+
+label{
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+input {
+    font-size: 20px;
+}
+
+h4 {
+    margin-bottom: 20px;
+}
+
+.caixa {
+    margin: 150px auto;
+}
+
+.caixa {
+    border: 1px solid white;
+    border-radius: 8px;
+    padding: 50px;
+}
+
+p {
+    margin-top: 20px;
+    margin-bottom: 0;
+    color: white;
+}
+
+.btn-primary{
+    background: rgb(250,100,20);
+    border-color: rgb(250,100,20);
+}
+
+span {
+    text-decoration: underline;
+    color: rgb(250,100,20);
+    font-weight: 600;
+    cursor: pointer;
+}

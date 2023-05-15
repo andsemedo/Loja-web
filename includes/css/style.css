@@ -1,0 +1,77 @@
+main {
+  margin-top: 150px;
+
+  margin-bottom: 100px;
+}
+
+/* .tbl-cart th,
+.tbl-cart td,
+.tbl-cart h4, 
+.tbl-cart a {
+    color: black;
+} */
+
+.badge {
+  padding: 0 3px;
+  background-color: rgb(250, 100, 20);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 800;
+  position: relative;
+  top: -27px;
+  border-radius: 50%;
+  right: 15px;
+  width: 25x;
+  /* height: 25x; */
+}
+
+table .thead-dark th {
+  color: #fff;
+  background-color: #343a40;
+  border-color: #454d55;
+}
+
+.table.table-borderless thead tr,
+.table.table-borderless tbody tr:not(:last-child) {
+  border-bottom: 15px solid #161616;
+}
+
+.table.table-borderless td {
+  background: #fff;
+  color: black;
+}
+
+.qtd-cart {
+  width: 50px;
+  overflow: hidden;
+  background: #454d55;
+  color: white;
+  border-radius: 0;
+}
+
+.td-qtd {
+  height: 70px;
+}
+
+.td-qtd button,
+.td-qtd input {
+  height: 30px;
+  color: white;
+  font-weight: 600;
+}
+
+.btn-compra {
+  width: 250px;
+  font-size: 20px;
+  font-weight: 600;
+  background: rgb(250, 100, 20);
+  border: none;
+}
+
+.btn-compra:is(:hover, :focus) {
+  background: rgb(214, 81, 9);
+}
+
+.div-total h4 {
+    color: black;
+}
